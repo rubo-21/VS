@@ -1,0 +1,201 @@
+{
+	"work1": {
+		"text": "Бизнес центр 2012 г.",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg",
+			"8.jpg"
+		]
+	},
+	"work2": {
+		"text": "Гостиница Спа на 3500кв/м 2009 г.",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg",
+			"8.jpg",
+			"9.jpg",
+			"10.jpg",
+			"11.jpg",
+			"12.jpg",
+			"13.jpg"
+		]
+	},
+	"work3": {
+		"text": "Дом, на 1300кв/м 2006 г.",
+		"geo": "<script type='text/javascript' charset='utf-8' src='//api-maps.yandex.ru/services/constructor/1.0/js/?sid=A2PGJPwcrksQf80eJdGUncPCDrqKyKW0&width=600&height=450'></script>",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg"
+		]
+	},
+	"work4": {
+		"text": "Благоустройство на 5900 кв/м Интерьер 400 кв/м 2010 г.",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg",
+			"8.jpg",
+			"9.jpg",
+			"10.jpg",
+			"11.jpg"
+		]
+	},
+	"work5": {
+		"text": "Дом на 1000кв/м участка 2011 г.",
+		"geo": "<script type='text/javascript' charset='utf-8' src='//api-maps.yandex.ru/services/constructor/1.0/js/?sid=y2SHknyxxdnamKSmWfItjXOmrkbLMfHM&width=600&height=450'></script>",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg",
+			"8.jpg",
+			"9.jpg",
+			"10.jpg",
+			"11.jpg",
+			"12.jpg",
+			"13.jpg",
+			"14.jpg",
+			"15.jpg",
+			"16.jpg"
+		]
+	},
+	"work6": {
+		"text": "Загородный дом, на 1500 кв/м участка 2009 г.",
+		"geo": "<script type='text/javascript' charset='utf-8' src='//api-maps.yandex.ru/services/constructor/1.0/js/?sid=w5n-wGVSHBfMgFlGsUGe0IlGjtu_sErD&width=600&height=450'></script>",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg"
+		]
+	},
+	"work7": {
+		"text": "Загородный дом на 850 кв/м участка 2005 г.",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg"
+		]
+	},
+	"work8": {
+		"text": "Квартира в ЖК 95кв/м 2013г.",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg"
+		]
+	},
+	"work9": {
+		"text": "Интерьер квартиры 265 кв/м",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg",
+			"8.jpg",
+			"9.jpg",
+			"10.jpg",
+			"11.jpg",
+			"12.jpg",
+			"13.jpg"
+		]
+	},
+	"work10": {
+		"text": "Мотель, на 500кв/м",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg"
+		]
+	},
+	"work11": {
+		"text": "Реставрация парка городского на 33500кв/м",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg"
+		]
+	},
+	"work12": {
+		"text": "Церковь (эскиз проект) 2007 г. ",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg"
+		]
+	},
+	"work13": {
+		"text": "Экстерьер индивидуального дома, камень туф, базальт общей площадью 1450кв/м 2008 г.",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg",
+			"8.jpg",
+			"9.jpg",
+			"10.jpg",
+			"11.jpg",
+			"12.jpg",
+			"13.jpg"
+		]
+	}						
+}

@@ -1,0 +1,201 @@
+{
+	"work1": {
+		"text": "Business Centre, 2012",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg",
+			"8.jpg"
+		]
+	},
+	"work2": {
+		"text": "Spa Hotel occupying about 3500 sq/m, 2009",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg",
+			"8.jpg",
+			"9.jpg",
+			"10.jpg",
+			"11.jpg",
+			"12.jpg",
+			"13.jpg"
+		]
+	},
+	"work3": {
+		"text": "House occupying about 1300 sq/m, 2006 ",
+		"geo": "<script type='text/javascript' charset='utf-8' src='//api-maps.yandex.ru/services/constructor/1.0/js/?sid=6ldr9AWCl3q5ZR2Pxcbd2Z-gV3Zm6pyY&width=600&height=450'></script>",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg"
+		]
+	},
+	"work4": {
+		"text": "Accomplishment of 5900 sq/m,  Interior 400 sq/m, 2010",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg",
+			"8.jpg",
+			"9.jpg",
+			"10.jpg",
+			"11.jpg"
+		]
+	},
+	"work5": {
+		"text": "House on 1000 sq/m, 2011",
+		"geo": "<script type='text/javascript' charset='utf-8' src='//api-maps.yandex.ru/services/constructor/1.0/js/?sid=y2SHknyxxdnamKSmWfItjXOmrkbLMfHM&width=600&height=450'></script>",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg",
+			"8.jpg",
+			"9.jpg",
+			"10.jpg",
+			"11.jpg",
+			"12.jpg",
+			"13.jpg",
+			"14.jpg",
+			"15.jpg",
+			"16.jpg"
+		]
+	},
+	"work6": {
+		"text": "Country house occupying about  1500 sq/m, 2009",
+		"geo": "<script type='text/javascript' charset='utf-8' src='//api-maps.yandex.ru/services/constructor/1.0/js/?sid=S07zmxKqvqB8qaszLKFAhnvNlb9jOFj5&width=600&height=450'></script>",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg"
+		]
+	},
+	"work7": {
+		"text": "Country house with 850 sq/m plot, 2005",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg"
+		]
+	},
+	"work8": {
+		"text": "Apartment occupying about 95 sq/m, 2013.",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg"
+		]
+	},
+	"work9": {
+		"text": "Interior of an apartment with 265 sq/m plot.",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg",
+			"8.jpg",
+			"9.jpg",
+			"10.jpg",
+			"11.jpg",
+			"12.jpg",
+			"13.jpg"
+		]
+	},
+	"work10": {
+		"text": "Motel,  occupying  500 sq/m, 2012",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg"
+		]
+	},
+	"work11": {
+		"text": "Restoration of a Park with 33500 sq/m plot, 2006",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg"
+		]
+	},
+	"work12": {
+		"text": "Church (sketch project), 2007",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg"
+		]
+	},
+	"work13": {
+		"text": "Individual house exterior , 1450 sq/m, 2008",
+		"geo": "none",
+		"pics": [
+			"main.jpg",
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg",
+			"8.jpg",
+			"9.jpg",
+			"10.jpg",
+			"11.jpg",
+			"12.jpg",
+			"13.jpg"
+		]
+	}						
+}
