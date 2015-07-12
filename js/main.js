@@ -48,9 +48,9 @@ $(document).ready(function () {
 				};
 				$('#showWorkWrapper').fadeIn(1000);
 				setTimeout(function(){
-					$('#ajaxLoader').hide();					
+					$('#ajaxLoader').hide();
 					$('#showWorkContent').fadeIn();
-				}, 2000);				
+				}, 2000);
 			}
 			if (data[id].geo != 'none') {
 				curGeo = data[id].geo;
@@ -63,37 +63,6 @@ $(document).ready(function () {
 	$('.forValidation').keydown(function(){
 		var value = $(this).val().trim();
 		if(value && value != ' ') $(this).css('border', 'none');
-	});
-
-	$('#contactFormSubmit').click(function(event) {		
-		var length = $('.forValidation').length;
-		var tmpLenght = 0;
-		$('.forValidation').each(function(index, el) {
-			var value = $(this).val().trim();
-			if(value && value != '' && value !== ' ') tmpLenght++;
-			else {
-				$(this).css('border', '2px solid #D22B2B');
-			}
-		});
-		if (length == tmpLenght) {
-			var name = $('#cfname').val();
-			var telephone = $('#cfphone').val();
-			var email = $('#cfemail').val();
-			var message = $('#cfmessage').val();
-			$.ajax({
-				url: 'feedback.php',
-				type: 'post',
-				data: {
-					name: name,
-					telephone: telephone,
-					email: email,
-					message: message
-				},
-				success: function (r){
-					console.log(r);
-				}
-			});
-		}
 	});
 });
 

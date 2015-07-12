@@ -16,6 +16,14 @@ body {
 *::selection { background: transparent; }
 *::-moz-selection { background: transparent; }
 
+a,
+a:hover,
+a:visited,
+a:link,
+a:active {
+	color: #C31C1C;
+}
+
 #preloader {
 	position: relative;
 	width: 100%;
@@ -79,11 +87,11 @@ body {
 	margin: 0;
 	padding: 0;
 	float: right;
-	list-style: none;	
-	text-align: center;	
+	list-style: none;
+	text-align: center;
 }
 
-#nav ul li {	
+#nav ul li {
 	width: 150px;
 	height: 80px;
 	margin: auto;
@@ -230,98 +238,6 @@ body {
 	font-size: 18px;
 }
 
-#contactFormWrapper {
-	position: relative;
-	width: 100%;
-	height: 100%;
-	margin: auto;
-	background: #FBFBFC;
-}
-
-#contactFormContainer {
-	position: relative;
-	width: 945px;
-	height: 100%;
-	margin: auto;
-}
-
-#contactFormHeader {
-	font-weight: 400;
-	font-size: 25px;
-	font-family: 'Open Sans', sans-serif;
-	padding-top: 87px;
-	color: #48474d;
-	text-transform: uppercase;
-	line-height: 40px;
-	margin-bottom: 8px;
-	margin-top: 35px;
-}
-
-.contactFormInputs input{
-	width: 380px;
-	background-color: #f6f6f6;
-	height: 49px;
-	border: none;
-	padding: 11px 10px 7px 17px;
-	margin-bottom: 11px;
-	font: 14px/24px 'Arial', sans-serif;
-	color: #bab9b9;
-	-webkit-appearance: none;
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-}
-
-#contactFormMessage textarea{
-	width: 100%;
-	background-color: #f6f6f6;
-	height: 335px;
-	border: none;
-	padding: 11px 10px 7px 17px;
-	margin-bottom: 11px;
-	font: 14px/24px 'Arial', sans-serif;
-	color: #bab9b9;
-	-webkit-appearance: none;
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-}
-
-#contactFormSubmit {
-	height: 17px;
-	color: #fff;
-	min-width: 86px;
-	margin: 17px 0 90px;
-	text-transform: uppercase;
-	font-size: 14px;
-	display: inline-block;
-	line-height: 14px;
-	font-family: 'Open Sans', sans-serif;
-	font-weight: 600;
-	position: relative;
-	padding: 15px 10px 13px 13px;
-	background: #C83030;
-}
-
-#contactFormSubmit:before {
-	content: '';
-	width: 45px;
-	position: absolute;
-	right: -45px;
-	background: url('../img/marker.png') center no-repeat #48474d;
-	height: 45px;
-	display: block;
-	top: 0;
-}
-
-#contactFormSubmit:hover {
-	cursor: pointer;
-	background: #48474d;
-}
-
-#contactFormSubmit:hover:before {
-	background: url('../img/marker.png') center no-repeat #C83030;
-}
 
 #contactAddressHeader {
 	margin-bottom: 5px;
@@ -358,7 +274,7 @@ body {
 	text-transform: uppercase;
 	line-height: 40px;
 	font-size: 24px;
-	font-weight: bold;	
+	font-weight: bold;
 	color: #fff;
 	text-align: center;
 }
@@ -523,7 +439,7 @@ body {
 
 .lastElement {
 	position: relative;
-	margin: auto;	
+	margin: auto;
 	clear: left;
 	float: inherit;
 }

@@ -48,9 +48,9 @@ $(document).ready(function () {
 				};
 				$('#showWorkWrapper').fadeIn(1000);
 				setTimeout(function(){
-					$('#ajaxLoader').hide();					
+					$('#ajaxLoader').hide();
 					$('#showWorkContent').fadeIn();
-				}, 2000);				
+				}, 2000);
 			}
 			if (data[id].geo != 'none') {
 				curGeo = data[id].geo;

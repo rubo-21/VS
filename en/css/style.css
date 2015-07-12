@@ -16,6 +16,14 @@ body {
 *::selection { background: transparent; }
 *::-moz-selection { background: transparent; }
 
+a,
+a:hover,
+a:visited,
+a:link,
+a:active {
+	color: #C31C1C;
+}
+
 #preloader {
 	position: relative;
 	width: 100%;
@@ -79,11 +87,11 @@ body {
 	margin: 0;
 	padding: 0;
 	float: right;
-	list-style: none;	
-	text-align: center;	
+	list-style: none;
+	text-align: center;
 }
 
-#nav ul li {	
+#nav ul li {
 	width: 150px;
 	height: 80px;
 	margin: auto;
@@ -358,7 +366,7 @@ body {
 	text-transform: uppercase;
 	line-height: 40px;
 	font-size: 24px;
-	font-weight: bold;	
+	font-weight: bold;
 	color: #fff;
 	text-align: center;
 }
@@ -523,7 +531,7 @@ body {
 
 .lastElement {
 	position: relative;
-	margin: auto;	
+	margin: auto;
 	clear: left;
 	float: inherit;
 }
